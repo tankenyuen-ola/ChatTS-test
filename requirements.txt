@@ -1,0 +1,16 @@
+deepspeed==0.16.7
+filelock==3.18.0
+flash_attn==2.7.4.post1
+langchain_community==0.3.23
+langchain_core==0.3.56
+langchain_openai==0.3.14
+lmdeploy==0.7.3
+loguru==0.7.3
+matplotlib==3.10.1
+numpy==2.2.5
+openai==1.76.0
+pip==25.0
+scipy==1.15.2
+torch==2.5.1
+tqdm==4.67.1
+transformers==4.49.0

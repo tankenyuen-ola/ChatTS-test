@@ -1,0 +1,11 @@
+Scenario Metadata: dict_keys(['Traffic Flow', 'Rerouted Traffic', 'Emergency Vehicles', 'Transit Rerouting', 'Social Media Activity', 'Weather Conditions'])
+Title: Major Infrastructure Failure Indicators
+--------------------
+Explanation:
+
+        This simulation shows a major infrastructure failure occurring on day 18.
+        The pattern indicates a bridge collapse or similar critical failure: traffic flow
+        suddenly stops, emergency vehicles converge, adjacent routes become congested,
+        transit systems implement emergency protocols, and social media activity explodes.
+        Weather remains normal, ruling out environmental causes.
+        

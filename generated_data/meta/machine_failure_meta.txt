@@ -1,0 +1,11 @@
+Scenario Metadata: dict_keys(['Machine Vibration', 'Production Output', 'Energy Consumption', 'Temperature', 'Quality Failures', 'Maintenance Overdue'])
+Title: Production Line Critical Failure Indicators
+--------------------
+Explanation:
+
+        This simulation shows a catastrophic machine failure occurring on day 18.
+        The pattern reveals a preventable failure with multiple warning signs: increasing vibration,
+        rising temperature, worsening quality issues, and overdue maintenance.
+        The failure sequence includes energy spike, temperature surge, and complete production stoppage.
+        Similar patterns occur before major industrial equipment failures across manufacturing sectors.
+        

@@ -1,0 +1,12 @@
+Scenario Metadata: dict_keys(['Build Duration (sec)', 'Test Execution Time (sec)', 'Repository Size (MB)', 'Static Analysis Time (sec)', 'Deployment Frequency (per day)', 'PR Wait Time (hours)'])
+Title: CI CD Pipeline Slowdown Indicators
+--------------------
+Explanation:
+
+        This simulation shows a development pipeline slowdown becoming critical around day 18.
+        The pattern indicates accumulating technical debt across the pipeline: test execution time
+        growing exponentially, static analysis taking longer, build times increasing steadily,
+        and deployment frequency dropping as a result. PR wait times increase dramatically,
+        reducing developer productivity and creating a negative feedback loop.
+        This pattern is common in maturing projects without dedicated optimization efforts.
+        

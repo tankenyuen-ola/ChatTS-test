@@ -1,0 +1,10 @@
+Scenario Metadata: dict_keys(['Stock Prices', 'Trading Volume', 'Interest Rates', 'Consumer Confidence', 'Manufacturing Output', 'Credit Spreads'])
+Title: Financial Market Crisis Indicators
+--------------------
+Explanation:
+
+        This simulation shows a financial market crash occurring around day 18.
+        The pattern indicates a severe financial Crisis with panic selling (volume spike),
+        emergency rate hikes, collapsing confidence, and production slowdown.
+        Such patterns were observed during the 2008 financial crisis and other market crashes.
+        

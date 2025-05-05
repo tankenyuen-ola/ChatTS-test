@@ -1,0 +1,11 @@
+Scenario Metadata: dict_keys(['Transaction Volume', 'Cache Hit Ratio (%)', 'Payment Gateway Response (ms)', 'Session Duration (sec)', 'Cart Abandonment Rate (%)', 'Infrastructure Scaling (%)'])
+Title: E-commerce Platform During Sales Event
+--------------------
+Explanation:
+
+        This simulation shows an e-commerce platform experiencing massive demand around day 18.
+        The pattern indicates demand shock overwhelming capacity planning: transaction volume spikes 400%,
+        cache hit ratio collapses causing thundering herd to backends, and infrastructure scaling hits limits.
+        As systems struggle, payment gateway timeouts increase, session durations drop, and cart abandonment rises dramatically.
+        This pattern is typical of Black Friday/Cyber Monday events without proper capacity planning.
+        

@@ -1,0 +1,3 @@
+[submodule "ChatTS"]
+	path = ChatTS
+	url = https://github.com/NetManAIOps/ChatTS.git

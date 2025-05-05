@@ -1,0 +1,12 @@
+Scenario Metadata: dict_keys(['Failed Login Attempts', 'Outbound Traffic (MB)', 'Privileged Operations', 'After-hours Activity', 'Suspicious DNS Queries', 'Endpoint Behavior Changes'])
+Title: Security Incident Detection Indicators
+--------------------
+Explanation:
+
+        This simulation shows a sophisticated security breach starting around day 18.
+        The pattern reveals an advanced persistent threat: initial access through password spraying,
+        followed by privilege escalation, unusual after-hours activity, and data exfiltration through
+        both direct outbound traffic and DNS tunneling. No single indicator is definitively malicious,
+        but correlation across data sources reveals a clear attack pattern.
+        This scenario demonstrates why security monitoring requires holistic analysis.
+        

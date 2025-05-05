@@ -1,0 +1,10 @@
+Scenario Metadata: dict_keys(['Precipitation', 'Soil Moisture', 'River Flow', 'Vegetation Health', 'Wildlife Movement', 'Fire Risk'])
+Title: Severe Drought Impact Indicators
+--------------------
+Explanation:
+
+        This simulation shows a worsening drought with critical ecological impacts around day 18.
+        The combined patterns indicate a severe drought with cascading effects: depleted water resources,
+        stressed vegetation, wildlife behavioral changes, and extreme fire danger.
+        These patterns mirror real drought emergencies like those in California (2012-2016) and Australia (2017-2019).
+        

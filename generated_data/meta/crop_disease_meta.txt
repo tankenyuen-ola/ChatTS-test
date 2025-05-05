@@ -1,0 +1,10 @@
+Scenario Metadata: dict_keys(['Crop Health', 'Moisture Levels', 'Temperature', 'Pest Detection', 'Soil Nutrients', 'UV Radiation'])
+Title: Crop Disease Outbreak Indicators
+--------------------
+Explanation:
+
+        This simulation shows a fungal disease outbreak affecting crops, becoming critical around day 18.
+        The combined data indicates ideal conditions for fungal pathogens: adequate moisture, 
+        optimal temperatures, reduced sunlight, and increasing pest vectors, while normal nutrient levels
+        rule out deficiency as a cause. Similar patterns occur in potato blight or wheat rust outbreaks.
+        

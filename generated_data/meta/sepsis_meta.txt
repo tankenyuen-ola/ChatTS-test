@@ -1,0 +1,10 @@
+Scenario Metadata: dict_keys(['Heart Rate', 'Blood Pressure', 'Body Temperature', 'Respiratory Rate', 'Oxygen Saturation', 'WBC Count'])
+Title: Patient Sepsis Development Indicators
+--------------------
+Explanation:
+
+        This simulation shows the development of sepsis in a patient, with critical deterioration around day 18.
+        The pattern shows classic sepsis progression: initial infection with fever and elevated heart/respiratory rates,
+        followed by shock with dropping blood pressure and potential organ failure.
+        Early detection of these combined patterns can be life-saving.
+        

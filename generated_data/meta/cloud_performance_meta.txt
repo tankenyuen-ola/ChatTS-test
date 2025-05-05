@@ -1,0 +1,11 @@
+Scenario Metadata: dict_keys(['API Response Time (ms)', 'Database Latency (ms)', 'CPU Utilization (%)', 'Network Throughput (%)', 'Error Rate (%)', 'Connection Pool Usage (%)'])
+Title: Cloud Application Performance Degradation Indicators
+--------------------
+Explanation:
+
+        This simulation shows a network bottleneck causing service degradation starting around day 18.
+        The pattern indicates what appears as a database issue is actually a network problem between services.
+        Note how CPU utilization remains reasonable while network throughput drops significantly.
+        Connection pool exhaustion follows, causing database latency spikes and increasing error rates.
+        This pattern is typical of microservice architecture issues where network partitioning occurs.
+        
